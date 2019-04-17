@@ -5,6 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "mongodb": "^3.2.3",
-    "mongoose": "^5.5.2"
+    "mongoose": "^5.5.2",
+    "validator": "^10.11.0"
   }
 }
